@@ -21,7 +21,7 @@ Example of part of the config for Zigbee2MQTT:
 ```yaml
 serial:
     adapter: ezsp
-    port: 'tcp://192.168.1.177:8888'
+    port: 'tcp://192.168.1.129:8888'
 ```
 
 Configuration example for ZHA:
