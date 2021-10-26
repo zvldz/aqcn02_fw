@@ -36,9 +36,9 @@ If you want to return to MiHome with hub, you need to flash stock firmware (ncp-
 
 
 ## Thanks
-zigbee_flash.sh is based on @CODeRUS script.
+zigbee_flash.sh is based on [@CODeRUS](https://github.com/CODeRUS) script.
 
-Firmware for Zigbee2MQTT/ZHA complied by Alexander Faronov(@faronov).
+Firmware for Zigbee2MQTT/ZHA complied by Alexander Faronov([@faronov](https://github.com/faronov)).
 
 PB01 - TX
 
