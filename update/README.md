@@ -1,4 +1,4 @@
-# Modifying Aqara Hub E1(aqcn02/ZHWG16LM) firmware via telnet
+# Modifying Aqara Hub E1(aqcn02/ZHWG16LM) firmware via telnet (MiHome mode)
 Telnet must be opened on the hub via php-miio/python-miio([manual](https://gist.github.com/zvldz/1bd6b21539f84339c218f9427e022709#aqara-hub-e1-zhwg16lm-usb-stick)).
 You will need telnet client like putty or other.
 You can find out IP of the hub in MiHome or on your router.
@@ -26,7 +26,7 @@ If you see something like in screenshot, everything is ok - you have modified hu
 - Added '/data/bin' in $PATH and '/data/lib' in $LD_LIBRARY_PATH
 - Added utilities (curl, dropbear, file, htop, ldd, minicom, nano, rx, sed, ser2net, socat, strace, sx)
 - Added '/data/terminfo' (some utilities need it)
-- Added ability to run additional services(ftp, dropbear, socat, ser2net, mosquitto with public port)
+- Added ability to run additional services (ftp, dropbear, socat, ser2net, mosquitto with public port)
 - Added utility to update zigbee firmware for Zigbee2MQTT/ZHA ([read more](https://github.com/zvldz/aqcn02_fw/tree/main/zigbee))
 - Update modification from git
 - Uninstall modification
