@@ -39,3 +39,8 @@ If you want to return to MiHome with hub, you need to flash stock firmware (ncp-
 zigbee_flash.sh is based on @CODeRUS script.
 
 Firmware for Zigbee2MQTT/ZHA complied by Alexander Faronov(@faronov).
+
+PB01 - TX
+
+PB00 - RX
+
