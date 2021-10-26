@@ -32,7 +32,7 @@ If you see something like in screenshot, everything is ok - you have modified hu
 - Uninstall modification
 
 ## Service managment
-To run the service with the system, you must create an empty file with one of the names
+To run the service with the system, you must create an empty file with one or some of the names
 - /data/enable_ftp
 - /data/enable_mosquitto
 - /data/enable_socat
