@@ -2,7 +2,7 @@
 Aqara Hub E1 firmwares and update manuals
 
 * [Modifying Aqara Hub E1 firmware via telnet](/update)
-* [Updating zigbee firmware of mgl03 gateway via telnet for Zigbee2MQTT](/zigbee)
+* [Updating zigbee firmware of Aqara Hub E1 via telnet for Zigbee2MQTT](/zigbee)
 
 # Useful links
 
