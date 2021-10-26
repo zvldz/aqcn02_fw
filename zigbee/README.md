@@ -1,6 +1,6 @@
 # Updating zigbee firmware of Aqara Hub E1(aqcn02/ZHWG16LM) via telnet for Zigbee2MQTT/ZHA
 Telnet must be opened on the hub via php-miio/python-miio([manual](https://gist.github.com/zvldz/1bd6b21539f84339c218f9427e022709#aqara-hub-e1-zhwg16lm-usb-stick)).
-And a firmware [modification](https://github.com/zvldz/aqcn02_fw/tree/main/update) must be installed.
+Firmware [modification](https://github.com/zvldz/aqcn02_fw/tree/main/update) must also be installed.
 You will need telnet client like putty or other. You can find out IP of the hub in MiHome or on your router. Login - "root", no password.
 
 Open telnet session, connect to hub and run commands:
