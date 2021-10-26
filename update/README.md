@@ -32,5 +32,14 @@ If you see something like in screenshot, everything is ok - you have modified hu
 - Uninstall modification
 
 ## Service managment
+To run the service with the system, you must create an empty file with one of the names
+- /data/enable_ftp
+- /data/enable_mosquitto
+- /data/enable_socat
+- /data/enable_ser2net
+- /data/enable_dropbear
 
 ## Update and uninstall modification
+To update modification you need to use the 'mod_update.sh' script.
+
+To uninstall modification run the script 'mod_uninstall.sh'.
