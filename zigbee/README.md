@@ -15,7 +15,7 @@ You will need to select firmware version:
 <img src="../media/e1_zb_screen_1.png" width="500">
 
 If you see something like in screenshot, everything is ok - you have updated zigbee firmware and you can configure Zigbee2MQTT/ZHA.
-You also need to create an '/data/enable_socat' or '/data/enable_ser2net' file to work with Zigbee2MQTT/ZHA and reboot the hub.
+**You also need to create an '/data/enable_socat' or '/data/enable_ser2net' file to work with Zigbee2MQTT/ZHA and reboot the hub.**
 
 Example of part of the config for Zigbee2MQTT:
 ```yaml
@@ -36,9 +36,9 @@ If you want to return to MiHome with hub, you need to flash stock firmware (ncp-
 
 
 ## Thanks
-zigbee_flash.sh is based on [@CODeRUS](https://github.com/CODeRUS) script.
+zigbee_flash.sh is based on **[@CODeRUS](https://github.com/CODeRUS)** script.
 
-Firmware for Zigbee2MQTT/ZHA complied by Alexander Faronov([@faronov](https://github.com/faronov)).
+Firmware for Zigbee2MQTT/ZHA complied by **Alexander Faronov**([@faronov](https://github.com/faronov)).
 
 PB01 - TX
 

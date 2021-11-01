@@ -30,6 +30,8 @@ If you see something like in screenshot, everything is ok - you have modified hu
 - Added utility to update zigbee firmware for Zigbee2MQTT/ZHA ([read more](https://github.com/zvldz/aqcn02_fw/tree/main/zigbee))
 - Update modification from git
 - Uninstall modification
+- Added custom startup script '/data/run.sh'
+- Added attempt to restore the modification if it is broken
 
 ## Service managment
 To run the service with the system, you must create an empty file with one or some of the names
