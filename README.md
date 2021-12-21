@@ -8,4 +8,4 @@ Aqara Hub E1 firmwares and update manuals
 
 * [Xiaomi Gateway v3 Hack Telegram Group](https://t.me/xiaomi_gw_v3_hack)
 * [Another Aqara Hub E1 project](https://github.com/niceboygithub/AqaraGateway)
-
+* [Enable telnet on Aqara G3 hub](https://github.com/Wh1terat/aQRootG3)
