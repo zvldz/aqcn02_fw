@@ -24,7 +24,7 @@ If you see something like in screenshot, everything is ok - you have modified hu
 - Open telnet by default
 - Added greeting info (fw version, ip, mac, token and etc)
 - Added '/data/bin' in $PATH and '/data/lib' in $LD_LIBRARY_PATH
-- Added utilities (curl, dropbear, file, htop, ldd, minicom, nano, rx, sed, ser2net, socat, strace, sx, mosquitto_pub, mosquitto_sub)
+- Added utilities (curl, dropbear, file, htop, ldd, minicom, nano, rx, sed, ser2net, socat, strace, sx, mosquitto_pub, mosquitto_sub, tcpdump)
 - Added '/data/terminfo' (some utilities need it)
 - Added ability to run additional services (ftp, dropbear, socat, ser2net, mosquitto with public port)
 - Added utility to update zigbee firmware for Zigbee2MQTT/ZHA ([read more](https://github.com/zvldz/aqcn02_fw/tree/main/zigbee))
